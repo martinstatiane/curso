@@ -1,4 +1,4 @@
 # cursos
- reposiorio dedicado a curso git e github
+ repositorio dedicado a curso git e github
  
 alteração feita remotamente

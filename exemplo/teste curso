@@ -2,3 +2,5 @@ valor_litro = float(input('Informe o valor do litro de combustível: R$'))
 valor_dinheiro = float(input('Informe quanto deseja abastecer: R$'))
 litros = valor_dinheiro // valor_litro
 print('Vai dar pra abastecer',litros,'litros de combustível.')
+
+print('hello')

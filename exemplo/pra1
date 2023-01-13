@@ -1,4 +1,6 @@
 soma = 5 + 2 
 subtracao = 5 - 2
+div = 5 / 2 
 print( soma)
 print ( subtracao)
+print ( div)
